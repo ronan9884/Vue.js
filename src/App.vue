@@ -40,6 +40,7 @@ export default {
   name: 'App',
   data(){
     return {
+      몸틈새넣기 : 0,
       showDiscount : true,
       오브젝트 : {name : 'kim', age : 20},
       누른거 : 0,
